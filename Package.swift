@@ -1,10 +1,4 @@
-//
-//  TestAppSwiftApp.swift
-//  TestAppSwift
-//
-//  Created by apple on 14/12/25.
-//
-
+// swift-tools-version: 5.7
 import PackageDescription
 
 let package = Package(
